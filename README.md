@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="tf" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://databricks.com" target="_blank"> <img src="https://github.com/ObadaJabassini/ObadaJabassini/blob/main/icons/databricks.png" alt="dbrs" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="az" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 

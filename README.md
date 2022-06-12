@@ -1,1 +1,1 @@
-[<img src="https://raw.githubusercontent.com/ObadaJabassini/ObadaJabassini/main/intro.gif" alt="👋 Hi there! I'm Obada |https://obadajab.com)" title="👋 Hi there! I'm Obada|https://obadajab.com)"/>](https://obadajab.com/)
+[<img src="https://github.com/ObadaJabassini/ObadaJabassini/blob/main/intro.gif" alt="👋 Hi there! I'm Obada |https://obadajab.com)" title="👋 Hi there! I'm Obada|https://obadajab.com)"/>](https://obadajab.com/)

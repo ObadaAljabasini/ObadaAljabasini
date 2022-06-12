@@ -4,3 +4,5 @@
 - Data Engineer at [Rabobank](https://www.rabobank.nl) via [Ordina](https://www.ordina.nl/).
 - Interested in Distributed Systems and Reinforcement Learning.
 - Master's in Data Science from Eindhoven University of Technology (TU/e).
+## Skills
+### Currently using:
